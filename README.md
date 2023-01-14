@@ -1,3 +1,5 @@
+Adding the ability for POST requests and more actions to the factory demo
+
 * [中文版本](README_cn.md)
 
 # ESP-BOX AIoT Development Framework
